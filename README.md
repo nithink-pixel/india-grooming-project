@@ -76,6 +76,30 @@ WEIGHTED AVERAGE          ███████████████░░░
 
 ---
 
+## Business Impact Simulation
+
+To estimate whether this category is attractive from an investment perspective, I added a simple revenue simulation based on premium-segment market size and assumed market-share capture.
+
+### Assumptions
+- Total market size (2025E): ₹1,180 Cr
+- Premium segment share: 41%
+- Average selling price (ASP): ₹349
+- Revenue estimated under multiple market-share scenarios
+
+### Revenue Scenarios
+
+| Target Share of Premium Segment | Estimated Annual Revenue |
+|---|---:|
+| 0.5% | ₹2.42 Cr |
+| 1.0% | ₹4.84 Cr |
+| 2.0% | ₹9.68 Cr |
+| 5.0% | ₹24.19 Cr |
+
+### Interpretation
+Even a 1–2% share of the premium segment could translate into ~₹4.8–₹9.7 Cr in annual revenue, making the category commercially attractive if customer acquisition and retention economics are favorable.
+
+---
+
 ## Dashboard Preview
 
 The final dashboard (`reports/final_analysis.html`) is a self-contained interactive HTML file containing six sections:
