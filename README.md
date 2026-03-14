@@ -135,11 +135,13 @@ All raw data is saved to `data/raw/` as CSV/JSON for reproducibility and offline
 india-grooming-project/
 │
 ├── analysis/                          # All Python scripts
-│   ├── collect_google_trends.py       # Pulls live Google Trends data (pytrends)
-│   ├── collect_amazon.py              # Scrapes Amazon India product listings
-│   ├── collect_public_datasets.py     # World Bank, CPI, channel, tier data
-│   ├── market_analysis.py             # Exploratory charts (matplotlib/seaborn)
-│   └── build_final_dashboard.py       # Assembles final interactive HTML report
+├── collect_google_trends.py       # Pulls live Google Trends data (pytrends)
+├── collect_amazon.py              # Scrapes Amazon India product listings
+├── collect_public_datasets.py     # World Bank, CPI, channel, tier data
+├── market_analysis.py             # Exploratory charts (matplotlib/seaborn)
+├── build_final_dashboard.py       # Assembles final interactive HTML report
+└── business_impact_simulation.py  # Revenue & market-share scenario modeling
+
 │
 ├── data/
 │   ├── raw/                           # All collected datasets (CSV/JSON)
