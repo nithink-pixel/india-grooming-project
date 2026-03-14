@@ -1,0 +1,16 @@
+file,size_kb
+_manifest.csv,0.3
+amazon_collection_summary.json,0.2
+amazon_products_raw.csv,44.9
+exchange_rate_usd_inr.csv,0.1
+gtrends_brand_interest_over_time.csv,9.2
+gtrends_category_trends.csv,5.7
+gtrends_regional_interest.csv,0.6
+gtrends_seasonal_90d.csv,1.5
+india_bodywash_channel_distribution.csv,0.3
+india_bodywash_price_tier_distribution.csv,0.5
+india_cpi_personal_care_static.csv,0.4
+india_fmcg_company_benchmarks.csv,0.4
+india_internet_ecommerce_penetration.csv,0.4
+worldbank_india_indicators.csv,3.1
+worldbank_india_pivot.csv,1.4

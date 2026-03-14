@@ -1,0 +1,12 @@
+{
+  "total_products": 435,
+  "with_price": 415,
+  "with_rating": 417,
+  "avg_price_inr": 570.72,
+  "avg_rating": 4.23,
+  "price_range": {
+    "min": 79,
+    "max": 8452,
+    "median": 314
+  }
+}

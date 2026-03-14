@@ -1,0 +1,6 @@
+tier,price_range,market_share_vol_pct_2023,market_share_vol_pct_2025e,market_share_val_pct_2023,market_share_val_pct_2025e,yoy_growth_pct,key_brands
+Economy (<₹100),<100,28,21,12,9,-4.2,"Lifebuoy, Godrej No.1"
+Mass (₹100-₹199),100-199,35,32,28,24,1.8,"Wild Stone, Park Avenue"
+Mass Premium (₹200-₹299),200-299,22,26,30,32,12.4,"Dove Men, Nivea Men, Fiama Men"
+Premium (₹300-₹499),300-499,11,15,22,26,28.6,"Beardo, Ustraa, The Man Company"
+Super Premium (₹500+),500+,4,6,8,9,41.2,"Forest Essentials Men, Kama Ayurveda"
